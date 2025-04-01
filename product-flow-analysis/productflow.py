@@ -6,8 +6,8 @@ incoming = [120, 150, 130, 170, 160]
 outgoing = [100, 140, 120, 160, 180]
 
 # Create the line chart
-plt.plot(days, incoming, label="Incoming products", marker='I')
-plt.plot(days, outgoing, label="Outgoing products", marker='O')
+plt.plot(days, incoming, label="Incoming products", marker='s')
+plt.plot(days, outgoing, label="Outgoing products", marker='o')
 
 # Add title and labels
 plt.title("Product flow through warehouse")
@@ -20,4 +20,4 @@ plt.grid(True)
 plt.tight_layout()
 
 # Show the chart
-plt.show
+plt.show()
