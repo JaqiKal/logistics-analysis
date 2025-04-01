@@ -127,4 +127,4 @@ cd product-flow-analysis
 python ../.venv/Scripts/activate
 
 # Run a script
-python [script_name.py]   e.g. python productflow.py
+python [script_name.py]   e.g. python productflow.py 
