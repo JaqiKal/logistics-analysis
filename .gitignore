@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+*.pyo
 *$py.class
 
 # C extensions
@@ -172,3 +173,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.qodo
+
+# Custom added files
+#  This is a custom added file that is not part of the standard Python .gitignore template.
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs & debug-files
+*.pid
+*.seed
