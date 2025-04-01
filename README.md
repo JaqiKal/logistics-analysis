@@ -20,7 +20,7 @@ Each example will live in its own folder with a self-contained Python script and
 - 📁 Folder: transportation-cost-analysis/
 - 📄 Script: transport_cost.py
 
-![Graph](../logistics-analysis/documentation/image/graph-tca.webp)
+![Graph](documentation/image/graph-tca.webp)
 
 </details>
 
@@ -32,7 +32,7 @@ Each example will live in its own folder with a self-contained Python script and
 - 📁 Folder: `product-flow-analysis/`  
 - 📄 Script: `productflow.py`
 
-![Graph](../logistics-analysis/documentation/image/graph-pftw.webp)
+![Graph](documentation/image/graph-pftw.webp)
 
 </details>
 
@@ -46,7 +46,7 @@ Each example will live in its own folder with a self-contained Python script and
 - 📁 Folder: inventory-levels-over-time/
 - 📄 Script: inventory_sim.py
 
-![Graph](../logistics-analysis/documentation/image/graph-ils.webp)
+![Graph](documentation/image/graph-ils.webp)
 
 </details>
 
@@ -60,7 +60,7 @@ Each example will live in its own folder with a self-contained Python script and
 - 📁 Folder: order-fulfillment-timeline/
 - 📄 Script: order_timeline.py
 
-![Graph](../logistics-analysis/documentation/image/graph-oft.webp)
+![Graph](documentation/image/graph-oft.webp)
 
 </details>
 
@@ -74,7 +74,8 @@ Each example will live in its own folder with a self-contained Python script and
 - 📁 Folder: lead-time-variability/
 - 📄 Script: leadtime_chart.py
 
-![Graph](../logistics-analysis/documentation/image/graph-ltv.webp)
+![Graph](documentation/image/graph-ltv.webp)
+![Graph](documentation/image/graph-ltv.webp)
 
 </details>
 
@@ -88,7 +89,7 @@ Each example will live in its own folder with a self-contained Python script and
 - 📁 Folder: demand-vs-capacity/
 - 📄 Script: capacity_balance.py
 
-![Graph](../logistics-analysis/documentation/image/graph-dvsc.webp)
+![Graph](documentation/image/graph-dvsc.webp)
 
 </details>
 
@@ -102,7 +103,7 @@ Each example will live in its own folder with a self-contained Python script and
 - 📁 Folder: cycle-time-analysis/
 - 📄 Script: cycle_time.py
 
-![Graph](../logistics-analysis/documentation/image/graph-cta.webp)
+![Graph](documentation/image/graph-cta.webp)
 
 </details>
 <!-- markdownlint-enable MD033 -->
